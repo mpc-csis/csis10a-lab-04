@@ -1,5 +1,4 @@
-# csis10-lab-04
-
+# Lab 4
 This lab is for practicing the lessons in [Think Java chapter 4](http://greenteapress.com/thinkapjava/html/thinkjava006.html). To use this lesson do the following:
 
 1. Open a terminal, PowerShell or command prompt as your interactive shell.
